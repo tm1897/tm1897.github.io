@@ -1,1 +1,3 @@
-# tm1897.github.io
+# Tomaž Martinčič
+
+> Data Scientist / Machine Learning Engineer
