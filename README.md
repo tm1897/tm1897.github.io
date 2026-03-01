@@ -17,3 +17,7 @@ Currently, I specialize in algorithmic traffic optimization, where I develop mod
 ## Apporach
 
 I prioritize results over complexity. Whether it's fine-tuning a model or optimizing a data pipeline, my goal is to build a system that is robust, easy to monitor, and directly impacts the bottom line.
+
+## Contact
+
+[LinkedIn](https://si.linkedin.com/in/tomaz-martincic)
